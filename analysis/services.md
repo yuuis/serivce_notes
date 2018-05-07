@@ -12,6 +12,8 @@
     * [LINEマンガ](https://manga.line.me/)
     * [少年ジャンプ+](https://shonenjumpplus.com/)
     * [GANMA!](https://ganma.jp/)
+  * differentiation
+    * gathering links of conflict services
   * monetize
     * advertise
   * administrator
