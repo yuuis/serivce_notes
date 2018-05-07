@@ -5,7 +5,7 @@
     * person who love web commics and reading on various services
   * needs
     * target want to read commics for free
-  * service
+  * approach
     * gather links for free works on other cartoon services such as ピッコマ, LINEマンガ or 少年ジャンプ+ etc
   * conflicts
     * [ピッコマ](https://piccoma.com/web/)
