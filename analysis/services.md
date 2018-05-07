@@ -14,3 +14,6 @@
     * [GANMA!](https://ganma.jp/)
   * monetize
     * advertise
+  * administrator
+    * [けんすう](https://twitter.com/kensuu) (entrepreneur)
+    * [べくさす](https://twitter.com/Vexus2) (free engineer)
