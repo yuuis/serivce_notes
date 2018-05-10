@@ -32,6 +32,10 @@
   * approach
     * user summon near taxi in map on phone, and use it for free
     * instead user receive proposals for various product or service
+  * conflicts
+    * some transportation facilities
+  * differentiation
+    * can use for free
   * monetize
     * advertise
   * administrator
