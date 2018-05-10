@@ -23,11 +23,15 @@
 # nommoc
   [nommoc](https://nommoc.jp/en/)
   * target
-    * adult
+    * user: adult
+    * advertiser: large company
   * needs
-    * target want to use taxi but it's expensive
+    * target(user) want to use taxi but it's expensive
+    * target(advertiser) want to approach real(not through web, Tv, news paper or event etc) for branding
   * approach
     * user summon near taxi in map on phone, and use it for free
     * instead user receive proposals for various product or service
   * monetize
     * advertise
+  * administrator
+    * nommoc.Inc
