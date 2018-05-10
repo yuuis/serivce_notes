@@ -19,3 +19,15 @@
   * administrator
     * [けんすう](https://twitter.com/kensuu) (entrepreneur)
     * [べくさす](https://twitter.com/Vexus2) (free engineer)
+
+# nommoc
+  [nommoc](https://nommoc.jp/en/)
+  * target
+    * adult
+  * needs
+    * target want to use taxi but it's expensive
+  * approach
+    * user summon near taxi in map on phone, and use it for free
+    * instead user receive proposals for various product or service
+  * monetize
+    * advertise
