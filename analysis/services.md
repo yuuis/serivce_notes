@@ -22,6 +22,7 @@
 
 # nommoc
   [nommoc](https://nommoc.jp/en/)
+  [nommoc-Youtuve](https://youtu.be/JU1iL--lNM8)
   * target
     * user: adult
     * advertiser: large company
