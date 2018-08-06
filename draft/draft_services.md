@@ -25,3 +25,8 @@
       * target may want to shared
   * monetize
     * ad
+
+# serivce of date plan
+  * target: person without romance experience(student?)
+  * needs: target want to know nice date spot and course
+  * approach: target input where you date and date time, so this service will serve nice date cource
