@@ -30,3 +30,21 @@
   * target: person without romance experience(student?)
   * needs: target want to know nice date spot and course
   * approach: target input where you date and date time, so this service will serve nice date cource
+
+# sharing camera lends
+  * target: 
+    * person who likes camenra or taking photo
+    * person who have many camenra lends
+  * needs: 
+    * targets want to use nice lends, but it's so expensive
+    * targets want to make money by lending a lens
+  * approach
+    * person who wants to lend lends post lends info, price, and period
+    * person who wants to borrow message to this
+    * send, use, return
+  * alternative
+    * rental contractor
+  * manetize
+    * mediation fee
+  * fb
+    * target may not want to lend expensive lenses
