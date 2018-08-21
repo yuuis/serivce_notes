@@ -49,13 +49,20 @@
   * fb
     * target may not want to lend expensive lenses
 
-# problem + programming
-  * target: person studied the programming language, but he/she does not know what to make
+# subject + programming
+  * target: 
+    * person studied the programming language, but he/she does not know what to make
+    * person who is between a professional and a beginner
   * needs: 
     * target want to make something using the programming language he/she studied
+    * target who want to deliverables
   * approach
-    * this service will serve some problems, and target will solve them
+    * this service will serve some subjects, and target will solve them
     * if target salve them, can see other user's answer
     * repead this, target can learn more programming, and make something
   * fb 
     * the target is very ambiguous, so we cant know correct approach
+  * some functions
+    * person solve this subject also solve this subject
+    * setback rate, spent time, category, tag(language, company)
+    * 
