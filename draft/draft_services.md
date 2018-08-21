@@ -48,3 +48,14 @@
     * mediation fee
   * fb
     * target may not want to lend expensive lenses
+
+# problem + programming
+  * target: person studied the programming language, but he/she does not know what to make
+  * needs: 
+    * target want to make something using the programming language he/she studied
+  * approach
+    * this service will serve some problems, and target will solve them
+    * if target salve them, can see other user's answer
+    * repead this, target can learn more programming, and make something
+  * fb 
+    * the target is very ambiguous, so we cant know correct approach
