@@ -62,6 +62,8 @@
     * repead this, target can learn more programming, and make something
   * fb 
     * the target is very ambiguous, so we cant know correct approach
+    * what kind of pro?(web, infla, data sience ...)
+    * differentiation from tutorial
   * more functions
     * person solve this subject also solve this subject
     * setback rate, spent time, category, tag(language, company)
