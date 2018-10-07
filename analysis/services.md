@@ -12,3 +12,5 @@
     * [LINEマンガ](https://manga.line.me/)
     * [少年ジャンプ+](https://shonenjumpplus.com/)
     * [GANMA!](https://ganma.jp/)
+  * monetize
+    * advertise
