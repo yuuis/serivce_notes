@@ -86,3 +86,20 @@
     * some SNSs
   * fb
     * why is the target not satisfied with alternative means
+
+# matching with fortune teller
+  * target
+    * women in 30's
+  * needs
+    * guest
+      * want to talk with faraway fortune teller
+      * want to talk with famous fortune teller
+    * fortune teller
+      * want to reach more customers a bit
+  * alternative
+    * go to place where fortune teller work
+    * [excite電話占い](https://d.excite.co.jp/prof/193806/)
+  * fb
+    * famous fortune tellers have personal apps
+    * so this service can only contact with not famous fotune tellers
+    * does the user realy want to talk to a not famous fortuneteller?
