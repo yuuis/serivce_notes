@@ -4,8 +4,8 @@
   * needs
     * they want to communicate between my owners for sharing some infomations related to pets
   * alternative
-    * いぬのきもち ねこのきもち(Curation site)
-    * ねこちゃんホンポ(Curation site)
+    * [いぬのきもち ねこのきもち](https://pet.benesse.ne.jp/)(Curation site)
+    * [ねこちゃんホンポ](https://nekochan.jp/)(Curation site)
   * approach
     * sns form of question and answer
     * account have infomation of his/hers pets
