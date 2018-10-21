@@ -68,3 +68,21 @@
     * person solve this subject also solve this subject
     * setback rate, spent time, category, tag(language, company)
     * user with everyon make tutorial
+
+# service of listen the story
+  * target: 
+    * single guy after 30's
+  * needs
+    * target wnat to listen his/her story to someone
+    * target want to be told that young people are amazing
+  * approach
+    * in a call
+    * meet
+    * in a chat
+  * alternative
+    * cabaret club, snack bar
+  * conflict
+    * [愚痴り寺](https://guchiri.com/)
+    * some SNSs
+  * fb
+    * why is the target not satisfied with alternative means
