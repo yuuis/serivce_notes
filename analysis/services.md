@@ -1,5 +1,5 @@
 # manga village
-[漫画ビレッジ](https://www.manga-village.com/)
+  [漫画ビレッジ](https://www.manga-village.com/)
   * target
     * student
     * person who love web commics and reading on various services
@@ -40,3 +40,20 @@
     * advertise
   * administrator
     * nommoc.Inc
+
+# ONE
+  [ONE](https://itunes.apple.com/jp/app/one-%E3%83%AF%E3%83%B3/id1373644984?mt=8)
+  * target
+    * user: housewife
+  * needs
+    * target(user) is grad that receipts changes into money
+  * approach
+    * app buys a receipt for ¥10 from user
+  * conflicts
+    * none
+  * differentiation
+    * none
+  * monetize
+    * sell the collected purchasing infomation to the company
+  * administrator
+    * [ONEFINACIAL](https://corp.wow.one/)
