@@ -45,10 +45,13 @@
   [ONE](https://itunes.apple.com/jp/app/one-ワン/id1373644984?mt=8)
   * target
     * user: housewife
+    * compnay
   * needs
     * target(user) is grad that receipts changes into money
+    * target(company) want purchasing infomation linked to personal info
   * approach
-    * app buys a receipt for ¥10 from user
+    * app buys a receipt for ¥10 from user up to 10 sheets per day
+    * user can withdraw money from some financial instututions
   * conflicts
     * none
   * differentiation
