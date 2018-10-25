@@ -42,7 +42,7 @@
     * nommoc.Inc
 
 # ONE
-  [ONE](https://itunes.apple.com/jp/app/one-%E3%83%AF%E3%83%B3/id1373644984?mt=8)
+  [ONE](https://itunes.apple.com/jp/app/one-ワン/id1373644984?mt=8)
   * target
     * user: housewife
   * needs
